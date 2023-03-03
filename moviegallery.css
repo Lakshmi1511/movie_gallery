@@ -6,7 +6,7 @@ h1{
     color: white;
     text-align: center;
     font-size: 50px;
-    margin: 15px;
+    margin: -4px;
     font-family: 'Russo One', sans-serif;
 }
 .row {
@@ -17,11 +17,12 @@ h1{
 }
 
 .col {
-    height: 565px;
+    height: 533px;
     width: 233px;
     border: yellow 2px solid;
     position: absolute;
     top: 0px;
+    margin-left: -121px;
 }
 
 .col-1 {
@@ -40,7 +41,7 @@ h5{
 }
 .item{
     width: 155px;
-    height: 40px;
+    height: 36px;
     border: 2px solid green;
     border-radius: 20px;
     background-color: #1e6a52e6;
